@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background: #f2f2f2;
+  font-family: Arial;
+}
+
+.box {
+  background: white;
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px gray;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  background: black;
+  color: white;
+}
